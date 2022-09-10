@@ -25,7 +25,7 @@ There are few features still pending but will be added soon in the not too dista
 
 [**`JavaScript`**](https://en.wikipedia.org/wiki/JavaScript) - basically the whole project is written in javascript.
 
-I tried to reduce the number of libraries to minimum but we obviously need a lot of libraries for testing and maintaining the code.
+I tried to keep the number of libraries to minimum but we obviously need a lot of libraries for testing and maintaining the code.
 so the libraies used for developemnt - 
 
 "devDependencies": {
